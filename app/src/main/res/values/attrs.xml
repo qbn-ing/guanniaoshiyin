@@ -1,0 +1,6 @@
+<!-- res/values/attrs.xml -->
+<resources>
+    <declare-styleable name="CustomFontTextView">
+        <attr name="fontPath" format="string" />
+    </declare-styleable>
+</resources>
